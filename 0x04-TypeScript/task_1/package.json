@@ -1,0 +1,17 @@
+{
+  "name": "task_1",
+  "version": "1.0.0",
+  "description": "TypeScript task for Teacher interface",
+  "main": "js/main.ts",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack serve --open"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "ts-loader": "^9.4.5",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
