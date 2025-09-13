@@ -19,3 +19,6 @@ const teacher3: Teacher = {
 };
 
 console.log(teacher3);
+
+
+console.log(teacher3);
